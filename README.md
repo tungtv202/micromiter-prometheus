@@ -20,3 +20,6 @@
     management.server.port=8090
     ```
 - All metrics are exposed at `/actuator/prometheus`
+
+## Ref
+[Ref link](https://medium.com/@mejariamol/spring-boot-app-monitoring-micrometer-prometheus-registry-590723a9ae0a)
